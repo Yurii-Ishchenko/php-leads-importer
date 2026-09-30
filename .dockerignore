@@ -1,0 +1,6 @@
+.git
+.env
+vendor
+storage
+*.xlsx
+node_modules

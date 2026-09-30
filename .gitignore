@@ -28,3 +28,12 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+# Employer-provided local input (never commit)
+/База даних.xlsx
+/storage/app/private/imports/
+/storage/logs/*.log
+/bootstrap/cache/*.php
+
+__pycache__/
+*.pyc
